@@ -72,7 +72,7 @@ public class MatricesBotones extends JFrame {
         pack();
         setVisible(true);
     }
-
+// comentario
     public String validar(int i, int j) {
         jugada++;
         if (jugada % 2 == 0) {
