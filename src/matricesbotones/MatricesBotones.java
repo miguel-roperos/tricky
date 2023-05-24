@@ -68,7 +68,7 @@ public class MatricesBotones extends JFrame {
             }
         }
         getContentPane().add(panelBotones, BorderLayout.CENTER);
-        setTitle("Tricky Traqui version GIT");
+        setTitle("Tricky Traqui version GIT local");
         pack();
         setVisible(true);
     }
